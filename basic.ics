@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Me
+X-WR-TIMEZONE:Asia/Jakarta
+BEGIN:VEVENT
+DTSTART:20221227T110000Z
+DTEND:20221228T073000Z
+DTSTAMP:20221028T131934Z
+UID:42tcu0lgahge1g3mub4tvm0og8@google.com
+CREATED:20221028T104555Z
+DESCRIPTION:<span><b>Bismillahirrahmanirrahim</b><br>Kami mengundang Bapak/
+ Ibu/Saudara/i untuk hadir di acara pernikahan kami. InsyaAllah akan diadaka
+ n di<br><br>Akad Nikah : Rumah Mempelai Putri\, 27 Desember 2022 - 18:00.<b
+ r>Walimatul 'Ursy : Jl. Hasan Munadi Banggle\, Beji \, 28 <span><span>Desem
+ ber </span></span>2022 - Bebas.<br><br>Regards\,<br><u>Imamah dan Mansur</u
+ ></span>
+LAST-MODIFIED:20221028T131554Z
+LOCATION:
+SEQUENCE:2
+STATUS:CONFIRMED
+SUMMARY:Wedding Imamah dan Mansur
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H30M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR
